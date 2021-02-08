@@ -1,0 +1,10 @@
+/node_modules/
+/tmp/
+/lib/
+/libdocs/
+/dist/
+/coverage/
+/jsdoc/
+.DS_Store
+.idea/
+js-aiblocks-base/
